@@ -1,2 +1,2 @@
 # OPAL_practice
-Algorithms practice and experimentation
+Simulations of some bandit algorithms.
