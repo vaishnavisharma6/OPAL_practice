@@ -6,11 +6,6 @@ import time
 from IPython.display import clear_output
 
 
-# play each arm once and get mean reward estimate -- initial estimate function
-# play arm with highest reward estimate now -- greedy function
-# update mean reward estimate for that arm -- update mean function
-# continue playing greedily till N number of steps -- plot function
-
 class greedy():
 
     def initial_estimate(self, k, para):
